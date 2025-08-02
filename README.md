@@ -26,7 +26,7 @@ This portfolio was designed and developed using **only HTML and CSS**, with a fo
 
 ## 🎓 Background
 
-I'm Blessed Nyambura, a former financial fraud investigator currently enrolled in the [Power Learn Project](https://powerlearnproject.org/) to transition into a career in software engineering.
+I'm Blessed Nyambura, a financial fraud investigator currently enrolled in the [Power Learn Project](https://powerlearnproject.org/) to transition into a career in software engineering.
 
 ## 📂 Folder Structure
 
